@@ -1,10 +1,8 @@
-markdown
 # Simple project of Rest Assured tests
 
 ## Description
 This project is dedicated to automated testing using Java 21 with RestAssured. 
 It aims to provide comprehensive testing capabilities for RESTful APIs.
-
 
 ## Features
 - Automated testing of RESTful APIs
